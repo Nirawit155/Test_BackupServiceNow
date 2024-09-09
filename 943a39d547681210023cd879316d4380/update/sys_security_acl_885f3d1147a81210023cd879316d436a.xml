@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_1529067_testapp_email</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1529067_testapp_email</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-09 03:38:53</sys_created_on>
+        <sys_id>885f3d1147a81210023cd879316d436a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1529067_testapp_email</sys_name>
+        <sys_package display_value="TestApp" source="x_1529067_testapp">943a39d547681210023cd879316d4380</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApp">943a39d547681210023cd879316d4380</sys_scope>
+        <sys_update_name>sys_security_acl_885f3d1147a81210023cd879316d436a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-09 03:38:53</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
