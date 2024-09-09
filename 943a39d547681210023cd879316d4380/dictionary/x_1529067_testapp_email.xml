@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="504ff11147a81210023cd879316d432d" label="Email" max_length="40" name="x_1529067_testapp_email" type="collection"/>
+</database>
